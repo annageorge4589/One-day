@@ -1,0 +1,14 @@
+body{
+    background-color: lavender;
+    background-image: ;
+}
+.btn{
+    border-radius: 13px;
+    padding: 10px,20px,22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial,sans-serif;
+    background-color: orange;
+    cursor:pointer;
+}
+.btn:hover{
+    background-color: azure;
+}
